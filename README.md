@@ -1,5 +1,6 @@
 # 💫 About Me:
-#Name : LUTFIAH SAHIRA<br>NIM : 24343039<BR>
+# Name : LUTFIAH SAHIRA
+# NIM : 24343039
 👩‍🎓Informatics Student at Padang State University<br>🦋I'm currently learning C++<br>🙏I'm looking for help with C++<br>🔎How to reach me lutfiah.sahira23@sma.belajar.id<br>💡Fun fact i'd like cat🐱
 ---
 
